@@ -4,7 +4,10 @@
 # But not these files...
 !/.gitignore
 
-!subdomains/
+# !subdomains/
+# !submodules/
+
+!README.md
 
 # ...even if they are in subdirectories
 !*/
