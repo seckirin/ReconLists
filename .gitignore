@@ -4,7 +4,9 @@
 # But not these files...
 !/.gitignore
 
+!resolvers/*
 !subdomains/*
+
 !submodules/**
 
 !README.md
