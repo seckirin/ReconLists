@@ -4,6 +4,6 @@
 # [submodule "submodule/trickest/resolvers"]
 # 	path = submodule/trickest/resolvers
 # 	url = https://github.com/trickest/resolvers
-[submodule "Forensics/Network Forensics/passivedns"]
-	path = Forensics/Network Forensics/passivedns
+[submodule "submodules/Forensics/Network Forensics/passivedns"]
+	path = submodules/Forensics/Network Forensics/passivedns
 	url = https://github.com/gamelinux/passivedns.git
