@@ -1,3 +1,6 @@
 [submodule "submodules/n0kovo_subdomains"]
 	path = submodules/n0kovo_subdomains
 	url = https://github.com/n0kovo/n0kovo_subdomains.git
+[submodule "submodules/trickest_resolvers"]
+	path = submodules/trickest_resolvers
+	url = https://github.com/trickest/resolvers.git
