@@ -5,7 +5,7 @@
 !/.gitignore
 
 !subdomains/*
-!submodules/*
+!submodules/**
 
 !README.md
 
