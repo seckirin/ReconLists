@@ -1,6 +1,9 @@
-[submodule "submodule/n0kovo/subdomains"]
-	path = submodule/n0kovo/subdomains
-	url = https://github.com/n0kovo/n0kovo_subdomains.git
-[submodule "submodule/trickest/resolvers"]
-	path = submodule/trickest/resolvers
-	url = https://github.com/trickest/resolvers
+# [submodule "submodule/n0kovo/subdomains"]
+# 	path = submodule/n0kovo/subdomains
+# 	url = https://github.com/n0kovo/n0kovo_subdomains.git
+# [submodule "submodule/trickest/resolvers"]
+# 	path = submodule/trickest/resolvers
+# 	url = https://github.com/trickest/resolvers
+[submodule "Forensics/Network Forensics/passivedns"]
+	path = Forensics/Network Forensics/passivedns
+	url = https://github.com/gamelinux/passivedns.git
