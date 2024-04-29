@@ -1,6 +1,6 @@
-[submodule "n0kovo/subdomains"]
+[submodule "submodule/n0kovo/subdomains"]
 	path = submodule/n0kovo/subdomains
 	url = https://github.com/n0kovo/n0kovo_subdomains.git
-[submodule "trickest/resolvers"]
+[submodule "submodule/trickest/resolvers"]
 	path = submodule/trickest/resolvers
 	url = https://github.com/trickest/resolvers
