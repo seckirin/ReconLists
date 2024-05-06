@@ -10,4 +10,3 @@
 * [submodules](./submodules)
   * [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains)
   * [trickest_resolvers](https://github.com/trickest/resolvers)
-* [README.md](./README.md)
