@@ -8,6 +8,6 @@
   * [subdomains.txt](./subdomain/subdomains.txt)
   * [subdomains_huge.txt](./subdomain/subdomains_huge.txt)
 * [submodules](./submodules)
-  * [n0kovo_subdomains](./submodules/n0kovo_subdomains)
-  * [trickest_resolvers](./submodules/trickest_resolvers)
+  * [n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains)
+  * [trickest_resolvers](https://github.com/trickest/resolvers)
 * [README.md](./README.md)
