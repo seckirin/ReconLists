@@ -4,8 +4,8 @@
 # But not these files...
 !/.gitignore
 
-!resolver/*
-!subdomain/*
+!resolvers/*
+!subdomains/*
 
 !submodules/**
 
